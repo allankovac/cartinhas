@@ -1,0 +1,131 @@
+[
+  {
+    "model": "app.posicao",
+    "pk": 1,
+    "fields": {
+      "nome_completo": "TOPO",
+      "nome_resumido": "TOP"
+    }
+  },
+  {
+    "model": "app.posicao",
+    "pk": 2,
+    "fields": {
+      "nome_completo": "CAÇADOR",
+      "nome_resumido": "JUG"
+    }
+  },
+  {
+    "model": "app.posicao",
+    "pk": 3,
+    "fields": {
+      "nome_completo": "MEIO",
+      "nome_resumido": "MID"
+    }
+  },
+  {
+    "model": "app.posicao",
+    "pk": 4,
+    "fields": {
+      "nome_completo": "ATIRADOR",
+      "nome_resumido": "ADC"
+    }
+  },
+  {
+    "model": "app.posicao",
+    "pk": 5,
+    "fields": {
+      "nome_completo": "SUPORTE",
+      "nome_resumido": "SUP"
+    }
+  },
+  {
+    "model": "app.posicao",
+    "pk": 6,
+    "fields": {
+      "nome_completo": "TECNICO",
+      "nome_resumido": "TEC"
+    }
+  },
+
+  {
+    "model": "app.time",
+    "pk": 1,
+    "fields": {
+      "nome_completo": "FLUXO",
+      "nome_resumido": "FX"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 2,
+    "fields": {
+      "nome_completo": "FURIA",
+      "nome_resumido": "FUR"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 3,
+    "fields": {
+      "nome_completo": "INTZ",
+      "nome_resumido": "ITZ"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 4,
+    "fields": {
+      "nome_completo": "KABUM",
+      "nome_resumido": "KBM"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 5,
+    "fields": {
+      "nome_completo": "LIBERTY",
+      "nome_resumido": "LBR"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 6,
+    "fields": {
+      "nome_completo": "LOS GRANDES",
+      "nome_resumido": "LOS"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 7,
+    "fields": {
+      "nome_completo": "LOUD",
+      "nome_resumido": "LLL"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 8,
+    "fields": {
+      "nome_completo": "PAIN GAMING",
+      "nome_resumido": "SUP"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk":9,
+    "fields": {
+      "nome_completo": "RED CANIDS KALUNGA",
+      "nome_resumido": "RED"
+    }
+  },
+  {
+    "model": "app.time",
+    "pk": 10,
+    "fields": {
+      "nome_completo": "VIVO KEYD STARS",
+      "nome_resumido": "VKS"
+    }
+  }
+]
