@@ -46,3 +46,6 @@ class Nota(models.Model):
 
     def __str__(self):
         return f'{self.valor} - {self.atleta}'
+
+    def retornaNotas(self):
+        return Nota.objects.all()
